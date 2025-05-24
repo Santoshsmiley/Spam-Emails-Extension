@@ -35,4 +35,11 @@ Project Link Github: https://github.com/Santoshsmiley/Spam-Emails-Extension
 
 #MachineLearning #WebDevelopment #ChromeExtension #SpamDetection #Python #FinalYearProject #ParulUniversity
 
-![Screenshot (34)](https://github.com/user-attachments/assets/0b392e10-e06e-4aec-ba27-a1f88c7020af)
+![Screenshot (32)](https://github.com/user-attachments/assets/023809a0-16f0-4f7c-8374-8eb6016007cb)
+
+![Screenshot (33)](https://github.com/user-attachments/assets/8eee09ed-8227-41c6-b557-7639a98d1bcb)
+
+![Screenshot (34)](https://github.com/user-attachments/assets/007069c0-b458-456f-9495-58e5d279f7fb)
+
+
+
