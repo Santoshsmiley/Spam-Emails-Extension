@@ -34,3 +34,5 @@ Feel free to connect if you're interested in the project or want to collaborate 
 Project Link Github: https://github.com/Santoshsmiley/Spam-Emails-Extension
 
 #MachineLearning #WebDevelopment #ChromeExtension #SpamDetection #Python #FinalYearProject #ParulUniversity
+
+![Screenshot (34)](https://github.com/user-attachments/assets/0b392e10-e06e-4aec-ba27-a1f88c7020af)
